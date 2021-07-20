@@ -1,1 +1,1 @@
-# ejercicio_programacion-master
+# ejercicio_programacion
